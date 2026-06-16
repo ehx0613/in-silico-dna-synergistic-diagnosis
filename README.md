@@ -7,7 +7,7 @@ This code reproduces the three computational stages described in the manuscript
 
 - `01_statistical_screening.py`: adaptive statistical testing, Benjamini-Hochberg correction, differential-expression filtering and Pearson-correlation filtering.
 - `02_svm_thresholds.py`: single-miRNA balanced linear SVM training and expression-threshold recovery.
-- `03_or_logic_validation.py`: OR-logic aggregation and diagnostic performance evaluation.
+- `03_or_logic_validation.py`: OR logic aggregation and diagnostic performance evaluation.
 - `run_pipeline.py`: complete analysis for one cancer dataset.
 - `run_all.py`: batch entry point for LUAD, KIRC and UCEC.
 - `requirements.txt`: Python package dependencies.
